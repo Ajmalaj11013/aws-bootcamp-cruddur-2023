@@ -6,7 +6,7 @@
                     
 create a file here :```backend-flask/Dockerfile```
 
- ```Docker
+ ```Dockerfile
 FROM python:3.10-slim-buster
 
 WORKDIR /backend-flask
